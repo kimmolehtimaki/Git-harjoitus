@@ -1,0 +1,50 @@
+body {
+    background-image: url(sunset_uuri.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.link{
+    position: absolute; top:30px;
+}
+.hederi{
+    text-align: center;
+    padding: 10px;
+    font-family: monospace;
+    
+    font-size: 40px
+}
+h1 {
+    border: 2px groove burlywood;
+    border-width: 10px;
+    background-color: antiquewhite
+}
+
+.one {
+    border-style: dotted;
+    border-width: 2px;
+    border-color: red;
+    border-radius: 5px;
+}
+#eka-kappale {
+    font-size: 20px;
+    color: aliceblue;
+    background-color: blueviolet;
+    font-family:monospace
+    border-style: none;
+    border-radius: 10px;
+    padding-left: 10px;
+
+}
+#toka_kappale {
+    color: aliceblue;    
+}
+
+.kappale {
+    color: aliceblue;
+    font-size: 16px;
+    font-family: helvetica;
+}
