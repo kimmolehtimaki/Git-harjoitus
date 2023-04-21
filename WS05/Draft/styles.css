@@ -1,0 +1,21 @@
+header,footer {
+    padding: 1em;
+    color:gray;
+    text-align: center;
+    background-color:azure
+}
+nav{
+    background-color: beige;
+    padding: 1em;
+}
+
+h1 {
+    text-align: left;
+    margin-left: 20px;
+    padding: 1em
+}
+
+.kappale {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
