@@ -1,0 +1,26 @@
+.parent {
+    background-color: deepskyblue;
+    padding: 5px;
+    position: relative;
+    height: 200vh;
+}
+
+.child-one {
+    background-color: chartreuse;
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.child-two {
+    background-color: darkorange;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+}
+
+.child-three {
+    background-color: fuchsia;
+    padding: 5px;
+}
