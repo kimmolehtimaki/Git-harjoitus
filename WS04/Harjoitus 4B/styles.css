@@ -23,7 +23,7 @@ h1 {
     background-color: antiquewhite
 }
 
-p.one {
+.one {
     border-style: dotted;
     border-width: 2px;
     border-color: red;
@@ -33,7 +33,11 @@ p.one {
     font-size: 20px;
     color: aliceblue;
     background-color: blueviolet;
-    font-family:monospace   
+    font-family:monospace
+    border-style: none;
+    border-radius: 10px;
+    padding-left: 10px;
+
 }
 #toka_kappale {
     color: aliceblue;    
