@@ -1,0 +1,82 @@
+body {
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    padding-left: ;
+}
+/*
+.carousel-item {
+    height: 500px;
+} */
+/* c-item ja c-img kuvien korkeuden rajoittamiseen */
+.c-item {
+    height: 500px;
+    
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+    filter:brightness(0.5);
+    padding-top: 100px;
+    
+}
+
+.col-md-4 {
+    background-color:gainsboro;
+    height: 600px;
+}
+
+col-sm-8 {
+    height: 500px;
+}
+
+
+#info {
+    font-size: 18px;
+    padding-left: 1.5em;
+    padding-top: 1.5em;
+    line-height: 1.8;
+}
+
+#osoite {
+    font-size: 18px;
+    padding-left: 1.5em;
+    padding-top: 1.5em;
+    line-height: 1.8;
+}
+
+.wrapper {display:flex;
+}
+
+.wrapper > div {
+    flex: 1;
+    text-align:center;
+}
+
+/* Footerin paddingin "nollaaminen", levittyy koko sivulle*/
+footer {
+    padding: 0 !important;
+    color:white;
+    background: rgb(33 37 41);
+    height: 50px;
+    vertical-align: middle;
+}
+
+a:link {
+    color: white;
+    background-color: rgb(33 37 41)
+}
+a:visited {
+    color: cornsilk;
+}
+a:focus {
+    color: crimson;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: crimson;
+}
