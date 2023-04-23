@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    padding-left: ;
+    padding-left: 0;
 }
 /*
 .carousel-item {
@@ -28,7 +28,7 @@ body {
     height: 600px;
 }
 
-col-sm-8 {
+.col-sm-8 {
     height: 500px;
 }
 
@@ -69,14 +69,14 @@ a:link {
     background-color: rgb(33 37 41)
 }
 a:visited {
-    color: cornsilk;
+    color: rgba(153, 171, 180, 0.774);
 }
 a:focus {
-    color: crimson;
+    color: rgb(67, 220, 20);
 }
 a:hover {
-    color: red;
+    color: rgb(0, 21, 255);
 }
 a:active {
-    color: crimson;
+    color: rgba(125, 121, 122, 0.838);
 }
