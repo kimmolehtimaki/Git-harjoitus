@@ -32,7 +32,6 @@ body {
     height: 500px;
 }
 
-
 #info {
     font-size: 18px;
     padding-left: 1.5em;
@@ -40,6 +39,20 @@ body {
     line-height: 1.8;
 }
 
+.hinnasto {
+    font-size: 32px;
+    text-align: left;
+    padding-top: 0.5em;
+    padding-left: 1em;
+    font-weight: bold
+}
+
+.hinnat {
+    font-size: 18px;
+    padding-top: 1.5em;
+    padding-left: 2em;
+    line-height: 2;
+}
 #osoite {
     font-size: 18px;
     padding-left: 1.5em;
