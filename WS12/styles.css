@@ -48,10 +48,10 @@ body {
 }
 
 .hinnat {
-    font-size: 18px;
-    padding-top: 1.5em;
+    font-size: 16px;
+    padding-top: 0.5em;
     padding-left: 2em;
-    line-height: 2;
+    line-height: 1.7;
 }
 #osoite {
     font-size: 18px;
